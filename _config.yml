@@ -4,14 +4,14 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+title: Ceiba
+subtitle: "一名努力的程序媛"
+description: "人之所以能，是因为相信能！"
+keywords: Ceiba, Ceiba1219, Lin dengping, 程序媛
+timezone: Asia/Guangzhou
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: mzlogin/mzlogin.github.io
+repository: Ceiba1219/Ceiba1219.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
