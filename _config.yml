@@ -2,7 +2,8 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+#url: https://mazhuang.org
+url: https://Ceiba1219/Ceiba1219.github.io
 date_format: "ordinal"
 title: Ceiba
 subtitle: "一名努力的程序媛"
@@ -131,14 +132,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ceiba
+    owner: Ceiba
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ceiba
+    owner: Ceiba
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
